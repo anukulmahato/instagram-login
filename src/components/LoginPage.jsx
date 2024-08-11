@@ -5,7 +5,7 @@ const LoginPage = () => {
                 <div className="instagram_wrapper">
                     <div className="left_column">
                         <div className="insta_image">
-                            <img src="https://media.canva.com/v2/image-resize/format:PNG/height:541/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FuV-l4%2FMAGNeKuV-l4%2F1%2Fp.png/watermark:F/width:250?csig=AAAAAAAAAAAAAAAAAAAAAKi0wWcznz0uTdhtNbzLbydxNgwT4seHapxDEpNiBkme&exp=1723321803&osig=AAAAAAAAAAAAAAAAAAAAAEQ0qG1qVF9s8VORZeUj6-MaFOGvNYSk-IIlVx3_KMFZ&signer=media-rpc&x-canva-quality=thumbnail_large" alt="" />
+                            <img src="https://www.instagram.com/images/instagram/xig/homepage/screenshots/screenshot3.png?__d=www" alt="" />
                         </div>
                     </div>
                     <div className="right_column">
