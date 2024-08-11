@@ -11,7 +11,7 @@ const LoginPage = () => {
                     <div className="right_column">
                         <div className="itemBox">
                             <div className="logo">
-                               <img src="https://media.canva.com/v2/image-resize/format:PNG/height:51/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FQHXnc%2FMAGNhHQHXnc%2F1%2Fp.png/watermark:F/width:174?csig=AAAAAAAAAAAAAAAAAAAAAF97PuFPDLg4qjNldljSdjvaerFK6dN0gxMsXEKgDLdE&exp=1723366486&osig=AAAAAAAAAAAAAAAAAAAAADfp57Z_2dXTJWvqx5Dh3bwyV_fVT29rKvudCEwO5Mmb&signer=media-rpc&x-canva-quality=thumbnail_large" alt="" /> 
+                               <img src="https://anukulmahato.io/wp-content/uploads/2024/08/8n91YnfPq0s.png" alt="" /> 
                             </div>
                             
                             <img className="user" src="https://lh3.googleusercontent.com/p/AF1QipOfBgQae8edsAzIwXZXx_4lKqfO1ssj4Clj5zvU=s680-w680-h510" alt="" />
